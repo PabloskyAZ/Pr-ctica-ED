@@ -16,8 +16,8 @@ public class practicaED
 		c=3;
 		z=20;
 		
-		
-		System.out.println(a+b*c+z);
+		//Espero que todes estén de acuerdes.
+		System.out.println((a+b)*(c+z));
 
 	}
 
